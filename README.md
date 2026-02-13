@@ -606,6 +606,5 @@ Este documento consolida toda a lógica técnica, analítica e estrutural do pro
 - Outros analistas de BI  
 - Evolução futura do dashboard  
 
-A documentação está completa e pronta para ser adicionada ao repositório GitHub.
 
 
